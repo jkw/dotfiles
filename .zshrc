@@ -12,5 +12,6 @@ setopt autocd
 bindkey -e
 # End of lines configured by zsh-newuser-install
 
+# Antigen stuff
 source ~/antigen.zsh
 antigen theme refined
