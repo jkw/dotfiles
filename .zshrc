@@ -14,6 +14,6 @@ bindkey -e
 
 # Antigen stuff
 source ~/antigen.zsh
-antigen theme refined
 antigen use oh-my-zsh
 antigen bundle git
+antigen theme refined
